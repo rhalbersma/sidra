@@ -1,0 +1,16 @@
+EXPORTS
+	EI_MakeMove
+	EI_Initialization
+	EI_NewGame
+	EI_Think
+	EI_SetTimeControl
+	EI_SetTime
+	EI_GetName
+	EI_SetupBoard
+	EI_Stop
+	EI_Ponder
+	EI_PonderHit
+	EI_OnExit
+	EI_Analyse
+	EI_EGDB
+	EI_SetSearchInfoEx
